@@ -1457,3 +1457,58 @@
     - Styled Components
   made_by: Webandcrafts
   made_by_url: https://webandcrafts.com
+
+  
+- title: Asteroid
+  url: https://asteriod.netlify.app
+  description: Explore cosmos with ChatGPT, AI author, sharing captivating Space and Astronomy articles
+  categories:
+    - ["Blog", "Content"]
+  frontend:
+    - Vite
+    - React
+    - Strapi (as a Backend)
+    - Render (as a Postgres Database)
+    - Cloudinary (as a SaaS Storage)
+    - ChatGPT
+    - Tailwind Css
+    - Figma
+  made_by: Firas M. Kingsdom
+  made_by_url: https://www.linkedin.com/in/fifolio
+  
+- title: Accorda
+  url: https://accorda.netlify.app
+  description: Embark on a transformative journey with Accorda, where career aspirations meet exceptional talent
+  categories:
+    - ["Job aggregator"]
+  frontend:
+    - Vite
+    - React
+    - Strapi (as a Backend)
+    - Render (as a server)
+    - Postgres Database
+    - Sass
+    - Bootstrap
+    - Figma
+    - Axios
+  made_by: Firas M. Kingsdom
+  made_by_url: https://www.linkedin.com/in/fifolio
+
+- title: La Sienne
+  url: https://lasienne.netlify.app
+  description: Step into a world of style and elegance with La Sienne the ultimate fashion destination
+  categories:
+    - ["E-commerce"]
+  frontend:
+    - Vite
+    - React
+    - Strapi (as a Backend)
+    - Render (as a Postgres Database)
+    - Cloudinary (as a SaaS Storage)
+    - Sass
+    - MUI
+    - Figma
+    - Axios
+    - Redux-toolkit
+  made_by: Firas M. Kingsdom
+  made_by_url: https://www.linkedin.com/in/fifolio
